@@ -1,0 +1,1 @@
+web: gunicorn stocks_app:server
