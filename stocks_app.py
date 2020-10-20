@@ -10,6 +10,19 @@ app = dash.Dash('__name__')
 server = app.server
 
 
+def generate_table(dataframe, max_rows=5):
+    return html.Table([
+        html.Thead(
+            html.Tr([html.Th(col) for col in dataframe.columns])
+        ),
+        html.Tbody([
+            html.Tr([
+                html.Td(dataframe.iloc[i][col]) for col in dataframe.columns
+            ]) for i in range(min(len(dataframe), max_rows))
+        ])
+    ], style={'width': '100%', 'margin': 25, 'textAlign': 'center'})
+
+
 data = pd.read_csv('pg4_data.csv')
 label = data['company'].values
 labels = set(label)
@@ -27,7 +40,8 @@ app.layout = html.Div(children=[
                                  clearable=False,
                                  searchable=True,
                                  value=label[0]
-                        )
+                        ),
+                    html.Div(id='stocks_table', className='row table-orders')
                     ]
                 ),
                 html.Div(className='eight columns div-for-charts bg-grey', children=[
@@ -73,6 +87,18 @@ def update_figure(plots):
                       )
 
     return fig
+
+
+@app.callback(
+    Output(component_id='stocks_table', component_property='children'),
+    Input(component_id='my_dropdown', component_property='value')
+)
+# Update table
+def update_table(table):
+    data1 = data
+    dat = data1[data1['company'] == table]
+    table_data = generate_table(dat.iloc[-2:], 3)
+    return table_data
 
 
 if __name__ == '__main__':
