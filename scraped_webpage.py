@@ -4,6 +4,7 @@ import csv
 import datetime
 import pandas as pd
 import time
+import schedule
 
 
 # Use requests to load the webpage
@@ -49,18 +50,25 @@ date = pd.to_datetime(date)
 
 
 # Now create the csv file that data will be loaded to
-field_names = ['ticker', 'company', 'prices', 'date']
-while True:
+field_names = ['ticker', 'company', 'price', 'date']
+
+
+def write_csv():
     with open('pg4_data.csv', 'a', newline='') as csv_file:
         csv_writer = csv.DictWriter(csv_file, fieldnames=field_names)
         for t, c, p in zip(tickers, companies, prices):
             info = {
                 'ticker': t,
                 'company': c,
-                'prices': p,
+                'price': p,
                 'date': date
 
             }
 
             csv_writer.writerow(info)
-    time.sleep(86400)
+
+
+schedule.every().day.at('23:59').do(write_csv)
+while True:
+    schedule.run_pending()
+    time.sleep(1)

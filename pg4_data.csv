@@ -1,261 +1,326 @@
-"ticker","company","price","date"
-"ABSA","Absa Bank Kenya Plc","9.66","2020-10-16"
-"ARM","ARM Cement Limited","5.55","2020-10-16"
-"BAMB","Bamburi Cement Limited","23.20","2020-10-16"
-"BAT","British American Tobacco (Kenya) Ltd.","336.00","2020-10-16"
-"BERG","Crown Paints Kenya Limited","42.45","2020-10-16"
-"BKG","Bank of Kigali Group Limited","13.05","2020-10-16"
-"BOC","BOC Kenya Limited","56.50","2020-10-16"
-"BRIT","Britam Holdings Limited","7.50","2020-10-16"
-"C&G","Car and General (Kenya) Limited","24.00","2020-10-16"
-"CABL","East African Cables Limited","1.50","2020-10-16"
-"CARB","Carbacid Investments Limited","8.80","2020-10-16"
-"CFC","Stanbic Holdings Limited","80.00","2020-10-16"
-"CFCI","Liberty Kenya Holdings Limited","7.60","2020-10-16"
-"CIC","CIC Insurance Group Limited","2.30","2020-10-16"
-"COOP","Co-operative Bank of Kenya Limited","11.90","2020-10-16"
-"DCON","Deacons (East Africa) Plc","0.45","2020-10-16"
-"DTK","Diamond Trust Bank Kenya Limited","62.75","2020-10-16"
-"EABL","East African Breweries Limited","163.00","2020-10-16"
-"EGAD","Eaagads Limited","13.25","2020-10-16"
-"EQTY","Equity Group Holdings Limited","34.90","2020-10-16"
-"EVRD","Eveready East Africa Limited","0.97","2020-10-16"
-"FAHR","STANLIB Fahari Income REIT","5.36","2020-10-16"
-"FIRE","Sameer Africa Limited","3.50","2020-10-16"
-"FTGH","Flame Tree Group Holdings Limited","1.43","2020-10-16"
-"GLD","NewGold Exchange Traded Fund","1,965.00","2020-10-16"
-"HAFR","Home Afrika Limited","0.44","2020-10-16"
-"HFCK","Housing Finance Company Limited","3.91","2020-10-16"
-"I&M","I&M Holdings Plc","43.65","2020-10-16"
-"ICDC","Centum Investment Company Limited","18.50","2020-10-16"
-"JUB","Jubilee Holdings Limited","275.00","2020-10-16"
-"KAPC","Kapchorua Tea Company Limited","80.50","2020-10-16"
-"KCB","KCB Bank Kenya Limited","37.50","2020-10-16"
-"KEGN","Kenya Electricity Generating Co. Ltd.","5.00","2020-10-16"
-"KNRE","Kenya Re-Insurance Corporation Ltd","2.27","2020-10-16"
-"KPLC","Kenya Power & Lighting Co. Limited","1.75","2020-10-16"
-"KPLC-P4","Kenya Power Pref. Shares at 4%","5.00","2020-10-16"
-"KPLC-P7","Kenya Power Pref. Shares at 7%","6.00","2020-10-16"
-"KQ","Kenya Airways Limited","3.83","2020-10-16"
-"KUKZ","Kakuzi Limited","380.00","2020-10-16"
-"KURV","Kurwitu Ventures Limited","1,500.00","2020-10-16"
-"LIMT","Limuru Tea Company Limited","400.00","2020-10-16"
-"LKL","Longhorn Publishers Limited","4.65","2020-10-16"
-"MSC","Mumias Sugar Company Limited","0.28","2020-10-16"
-"NBK","National Bank of Kenya Limited","4.12","2020-10-16"
-"NBV","Nairobi Business Ventures Ltd","0.71","2020-10-16"
-"NIC","NIC Bank Limited","23.25","2020-10-16"
-"NMG","Nation Media Group","15.75","2020-10-16"
-"NSE","Nairobi Securities Exchange Limited","8.42","2020-10-16"
-"OCH","Olympia Capital Holdings Limited","2.30","2020-10-16"
-"ORCH","Kenya Orchards Limited","11.05","2020-10-16"
-"PAFR","Sanlam Kenya Plc","12.70","2020-10-16"
-"PORT","East African Portland Cement Co. Ltd","16.00","2020-10-16"
-"SASN","Sasini Tea and Coffee Limited","19.00","2020-10-16"
-"SCAN","ScanGroup Limited","6.96","2020-10-16"
-"SCBK","Standard Chartered Bank Limited","160.00","2020-10-16"
-"SCOM","Safaricom Limited","30.05","2020-10-16"
-"SGL","Standard Group Limited","18.65","2020-10-16"
-"TCL","Trans Century Limited","1.58","2020-10-16"
-"TOTL","Total Kenya Limited","24.50","2020-10-16"
-"TPSE","TPS Eastern Africa (Serena) Limited","14.65","2020-10-16"
-"UCHM","Uchumi Supermarket Limited","0.30","2020-10-16"
-"UMME","Umeme Limited","6.90","2020-10-16"
-"UNGA","Unga Group Limited","30.65","2020-10-16"
-"WTK","Williamson Tea Kenya Limited","140.00","2020-10-16"
-"XPRS","Express Kenya Limited","4.50","2020-10-16"
-"ABSA","Absa Bank Kenya Plc","9.62","2020-10-17"
-"ARM","ARM Cement Limited","5.55","2020-10-17"
-"BAMB","Bamburi Cement Limited","23.30","2020-10-17"
-"BAT","British American Tobacco (Kenya) Ltd.","349.00","2020-10-17"
-"BERG","Crown Paints Kenya Limited","42.45","2020-10-17"
-"BKG","Bank of Kigali Group Limited","13.75","2020-10-17"
-"BOC","BOC Kenya Limited","57.00","2020-10-17"
-"BRIT","Britam Holdings Limited","7.50","2020-10-17"
-"C&G","Car and General (Kenya) Limited","24.00","2020-10-17"
-"CABL","East African Cables Limited","1.47","2020-10-17"
-"CARB","Carbacid Investments Limited","8.78","2020-10-17"
-"CFC","Stanbic Holdings Limited","77.00","2020-10-17"
-"CFCI","Liberty Kenya Holdings Limited","8.00","2020-10-17"
-"CIC","CIC Insurance Group Limited","2.24","2020-10-17"
-"COOP","Co-operative Bank of Kenya Limited","11.80","2020-10-17"
-"DCON","Deacons (East Africa) Plc","0.45","2020-10-17"
-"DTK","Diamond Trust Bank Kenya Limited","63.00","2020-10-17"
-"EABL","East African Breweries Limited","163.00","2020-10-17"
-"EGAD","Eaagads Limited","13.25","2020-10-17"
-"EQTY","Equity Group Holdings Limited","34.95","2020-10-17"
-"EVRD","Eveready East Africa Limited","0.97","2020-10-17"
-"FAHR","STANLIB Fahari Income REIT","5.36","2020-10-17"
-"FIRE","Sameer Africa Limited","3.50","2020-10-17"
-"FTGH","Flame Tree Group Holdings Limited","1.30","2020-10-17"
-"GLD","NewGold Exchange Traded Fund","1,970.00","2020-10-17"
-"HAFR","Home Afrika Limited","0.40","2020-10-17"
-"HFCK","Housing Finance Company Limited","3.63","2020-10-17"
-"I&M","I&M Holdings Plc","43.50","2020-10-17"
-"ICDC","Centum Investment Company Limited","18.30","2020-10-17"
-"JUB","Jubilee Holdings Limited","275.00","2020-10-17"
-"KAPC","Kapchorua Tea Company Limited","75.00","2020-10-17"
-"KCB","KCB Bank Kenya Limited","37.20","2020-10-17"
-"KEGN","Kenya Electricity Generating Co. Ltd.","5.22","2020-10-17"
-"KNRE","Kenya Re-Insurance Corporation Ltd","2.24","2020-10-17"
-"KPLC","Kenya Power & Lighting Co. Limited","1.75","2020-10-17"
-"KPLC-P4","Kenya Power Pref. Shares at 4%","5.00","2020-10-17"
-"KPLC-P7","Kenya Power Pref. Shares at 7%","6.00","2020-10-17"
-"KQ","Kenya Airways Limited","3.83","2020-10-17"
-"KUKZ","Kakuzi Limited","380.00","2020-10-17"
-"KURV","Kurwitu Ventures Limited","1,500.00","2020-10-17"
-"LIMT","Limuru Tea Company Limited","400.00","2020-10-17"
-"LKL","Longhorn Publishers Limited","4.54","2020-10-17"
-"MSC","Mumias Sugar Company Limited","0.28","2020-10-17"
-"NBK","National Bank of Kenya Limited","4.12","2020-10-17"
-"NBV","Nairobi Business Ventures Ltd","0.71","2020-10-17"
-"NIC","NIC Bank Limited","22.95","2020-10-17"
-"NMG","Nation Media Group","15.95","2020-10-17"
-"NSE","Nairobi Securities Exchange Limited","8.28","2020-10-17"
-"OCH","Olympia Capital Holdings Limited","2.14","2020-10-17"
-"ORCH","Kenya Orchards Limited","11.05","2020-10-17"
-"PAFR","Sanlam Kenya Plc","12.70","2020-10-17"
-"PORT","East African Portland Cement Co. Ltd","16.00","2020-10-17"
-"SASN","Sasini Tea and Coffee Limited","19.00","2020-10-17"
-"SCAN","ScanGroup Limited","6.88","2020-10-17"
-"SCBK","Standard Chartered Bank Limited","157.75","2020-10-17"
-"SCOM","Safaricom Limited","30.10","2020-10-17"
-"SGL","Standard Group Limited","18.10","2020-10-17"
-"TCL","Trans Century Limited","1.53","2020-10-17"
-"TOTL","Total Kenya Limited","23.75","2020-10-17"
-"TPSE","TPS Eastern Africa (Serena) Limited","15.00","2020-10-17"
-"UCHM","Uchumi Supermarket Limited","0.28","2020-10-17"
-"UMME","Umeme Limited","6.48","2020-10-17"
-"UNGA","Unga Group Limited","30.65","2020-10-17"
-"WTK","Williamson Tea Kenya Limited","140.00","2020-10-17"
-"XPRS","Express Kenya Limited","4.50","2020-10-17"
-"ABSA","Absa Bank Kenya Plc","9.62","2020-10-18"
-"ARM","ARM Cement Limited","5.55","2020-10-18"
-"BAMB","Bamburi Cement Limited","23.30","2020-10-18"
-"BAT","British American Tobacco (Kenya) Ltd.","349.00","2020-10-18"
-"BERG","Crown Paints Kenya Limited","42.45","2020-10-18"
-"BKG","Bank of Kigali Group Limited","13.75","2020-10-18"
-"BOC","BOC Kenya Limited","57.00","2020-10-18"
-"BRIT","Britam Holdings Limited","7.50","2020-10-18"
-"C&G","Car and General (Kenya) Limited","24.00","2020-10-18"
-"CABL","East African Cables Limited","1.47","2020-10-18"
-"CARB","Carbacid Investments Limited","8.78","2020-10-18"
-"CFC","Stanbic Holdings Limited","77.00","2020-10-18"
-"CFCI","Liberty Kenya Holdings Limited","8.00","2020-10-18"
-"CIC","CIC Insurance Group Limited","2.24","2020-10-18"
-"COOP","Co-operative Bank of Kenya Limited","11.80","2020-10-18"
-"DCON","Deacons (East Africa) Plc","0.45","2020-10-18"
-"DTK","Diamond Trust Bank Kenya Limited","63.00","2020-10-18"
-"EABL","East African Breweries Limited","163.00","2020-10-18"
-"EGAD","Eaagads Limited","13.25","2020-10-18"
-"EQTY","Equity Group Holdings Limited","34.95","2020-10-18"
-"EVRD","Eveready East Africa Limited","0.97","2020-10-18"
-"FAHR","STANLIB Fahari Income REIT","5.36","2020-10-18"
-"FIRE","Sameer Africa Limited","3.50","2020-10-18"
-"FTGH","Flame Tree Group Holdings Limited","1.30","2020-10-18"
-"GLD","NewGold Exchange Traded Fund","1,970.00","2020-10-18"
-"HAFR","Home Afrika Limited","0.40","2020-10-18"
-"HFCK","Housing Finance Company Limited","3.63","2020-10-18"
-"I&M","I&M Holdings Plc","43.50","2020-10-18"
-"ICDC","Centum Investment Company Limited","18.30","2020-10-18"
-"JUB","Jubilee Holdings Limited","275.00","2020-10-18"
-"KAPC","Kapchorua Tea Company Limited","75.00","2020-10-18"
-"KCB","KCB Bank Kenya Limited","37.20","2020-10-18"
-"KEGN","Kenya Electricity Generating Co. Ltd.","5.22","2020-10-18"
-"KNRE","Kenya Re-Insurance Corporation Ltd","2.24","2020-10-18"
-"KPLC","Kenya Power & Lighting Co. Limited","1.75","2020-10-18"
-"KPLC-P4","Kenya Power Pref. Shares at 4%","5.00","2020-10-18"
-"KPLC-P7","Kenya Power Pref. Shares at 7%","6.00","2020-10-18"
-"KQ","Kenya Airways Limited","3.83","2020-10-18"
-"KUKZ","Kakuzi Limited","380.00","2020-10-18"
-"KURV","Kurwitu Ventures Limited","1,500.00","2020-10-18"
-"LIMT","Limuru Tea Company Limited","400.00","2020-10-18"
-"LKL","Longhorn Publishers Limited","4.54","2020-10-18"
-"MSC","Mumias Sugar Company Limited","0.28","2020-10-18"
-"NBK","National Bank of Kenya Limited","4.12","2020-10-18"
-"NBV","Nairobi Business Ventures Ltd","0.71","2020-10-18"
-"NIC","NIC Bank Limited","22.95","2020-10-18"
-"NMG","Nation Media Group","15.95","2020-10-18"
-"NSE","Nairobi Securities Exchange Limited","8.28","2020-10-18"
-"OCH","Olympia Capital Holdings Limited","2.14","2020-10-18"
-"ORCH","Kenya Orchards Limited","11.05","2020-10-18"
-"PAFR","Sanlam Kenya Plc","12.70","2020-10-18"
-"PORT","East African Portland Cement Co. Ltd","16.00","2020-10-18"
-"SASN","Sasini Tea and Coffee Limited","19.00","2020-10-18"
-"SCAN","ScanGroup Limited","6.88","2020-10-18"
-"SCBK","Standard Chartered Bank Limited","157.75","2020-10-18"
-"SCOM","Safaricom Limited","30.10","2020-10-18"
-"SGL","Standard Group Limited","18.10","2020-10-18"
-"TCL","Trans Century Limited","1.53","2020-10-18"
-"TOTL","Total Kenya Limited","23.75","2020-10-18"
-"TPSE","TPS Eastern Africa (Serena) Limited","15.00","2020-10-18"
-"UCHM","Uchumi Supermarket Limited","0.28","2020-10-18"
-"UMME","Umeme Limited","6.48","2020-10-18"
-"UNGA","Unga Group Limited","30.65","2020-10-18"
-"WTK","Williamson Tea Kenya Limited","140.00","2020-10-18"
-"XPRS","Express Kenya Limited","4.50","2020-10-18"
-ABSA,Absa Bank Kenya Plc,9.50,2020-10-19 00:00:00
-ARM,ARM Cement Limited,5.55,2020-10-19 00:00:00
-BAMB,Bamburi Cement Limited,23.25,2020-10-19 00:00:00
-BAT,British American Tobacco (Kenya) Ltd.,350.00,2020-10-19 00:00:00
-BERG,Crown Paints Kenya Limited,42.50,2020-10-19 00:00:00
-BKG,Bank of Kigali Group Limited,14.00,2020-10-19 00:00:00
-BOC,BOC Kenya Limited,57.00,2020-10-19 00:00:00
-BRIT,Britam Holdings Limited,7.50,2020-10-19 00:00:00
-C&G,Car and General (Kenya) Limited,24.00,2020-10-19 00:00:00
-CABL,East African Cables Limited,1.47,2020-10-19 00:00:00
-CARB,Carbacid Investments Limited,8.40,2020-10-19 00:00:00
-CFC,Stanbic Holdings Limited,84.00,2020-10-19 00:00:00
-CFCI,Liberty Kenya Holdings Limited,7.84,2020-10-19 00:00:00
-CIC,CIC Insurance Group Limited,2.24,2020-10-19 00:00:00
-COOP,Co-operative Bank of Kenya Limited,11.85,2020-10-19 00:00:00
-DCON,Deacons (East Africa) Plc,0.45,2020-10-19 00:00:00
-DTK,Diamond Trust Bank Kenya Limited,62.50,2020-10-19 00:00:00
-EABL,East African Breweries Limited,162.00,2020-10-19 00:00:00
-EGAD,Eaagads Limited,13.25,2020-10-19 00:00:00
-EQTY,Equity Group Holdings Limited,34.55,2020-10-19 00:00:00
-EVRD,Eveready East Africa Limited,0.97,2020-10-19 00:00:00
-FAHR,STANLIB Fahari Income REIT,5.38,2020-10-19 00:00:00
-FIRE,Sameer Africa Limited,3.41,2020-10-19 00:00:00
-FTGH,Flame Tree Group Holdings Limited,1.32,2020-10-19 00:00:00
-GLD,NewGold Exchange Traded Fund,"1,970.00",2020-10-19 00:00:00
-HAFR,Home Afrika Limited,0.39,2020-10-19 00:00:00
-HFCK,Housing Finance Company Limited,3.86,2020-10-19 00:00:00
-I&M,I&M Holdings Plc,43.65,2020-10-19 00:00:00
-ICDC,Centum Investment Company Limited,18.50,2020-10-19 00:00:00
-JUB,Jubilee Holdings Limited,270.00,2020-10-19 00:00:00
-KAPC,Kapchorua Tea Company Limited,75.00,2020-10-19 00:00:00
-KCB,KCB Bank Kenya Limited,37.00,2020-10-19 00:00:00
-KEGN,Kenya Electricity Generating Co. Ltd.,5.24,2020-10-19 00:00:00
-KNRE,Kenya Re-Insurance Corporation Ltd,2.26,2020-10-19 00:00:00
-KPLC,Kenya Power & Lighting Co. Limited,1.73,2020-10-19 00:00:00
-KPLC-P4,Kenya Power Pref. Shares at 4%,5.00,2020-10-19 00:00:00
-KPLC-P7,Kenya Power Pref. Shares at 7%,6.00,2020-10-19 00:00:00
-KQ,Kenya Airways Limited,3.83,2020-10-19 00:00:00
-KUKZ,Kakuzi Limited,380.00,2020-10-19 00:00:00
-KURV,Kurwitu Ventures Limited,"1,500.00",2020-10-19 00:00:00
-LIMT,Limuru Tea Company Limited,400.00,2020-10-19 00:00:00
-LKL,Longhorn Publishers Limited,4.70,2020-10-19 00:00:00
-MSC,Mumias Sugar Company Limited,0.28,2020-10-19 00:00:00
-NBK,National Bank of Kenya Limited,4.12,2020-10-19 00:00:00
-NBV,Nairobi Business Ventures Ltd,0.71,2020-10-19 00:00:00
-NIC,NIC Bank Limited,22.85,2020-10-19 00:00:00
-NMG,Nation Media Group,15.60,2020-10-19 00:00:00
-NSE,Nairobi Securities Exchange Limited,8.10,2020-10-19 00:00:00
-OCH,Olympia Capital Holdings Limited,2.04,2020-10-19 00:00:00
-ORCH,Kenya Orchards Limited,11.05,2020-10-19 00:00:00
-PAFR,Sanlam Kenya Plc,12.50,2020-10-19 00:00:00
-PORT,East African Portland Cement Co. Ltd,16.00,2020-10-19 00:00:00
-SASN,Sasini Tea and Coffee Limited,19.00,2020-10-19 00:00:00
-SCAN,ScanGroup Limited,6.82,2020-10-19 00:00:00
-SCBK,Standard Chartered Bank Limited,159.50,2020-10-19 00:00:00
-SCOM,Safaricom Limited,30.10,2020-10-19 00:00:00
-SGL,Standard Group Limited,18.10,2020-10-19 00:00:00
-TCL,Trans Century Limited,1.58,2020-10-19 00:00:00
-TOTL,Total Kenya Limited,22.80,2020-10-19 00:00:00
-TPSE,TPS Eastern Africa (Serena) Limited,16.00,2020-10-19 00:00:00
-UCHM,Uchumi Supermarket Limited,0.30,2020-10-19 00:00:00
-UMME,Umeme Limited,7.00,2020-10-19 00:00:00
-UNGA,Unga Group Limited,30.65,2020-10-19 00:00:00
-WTK,Williamson Tea Kenya Limited,139.00,2020-10-19 00:00:00
-XPRS,Express Kenya Limited,4.50,2020-10-19 00:00:00
+ticker,company,price,date
+ABSA,Absa Bank Kenya Plc,9.66,16/10/2020
+ARM,ARM Cement Limited,5.55,16/10/2020
+BAMB,Bamburi Cement Limited,23.2,16/10/2020
+BAT,British American Tobacco (Kenya) Ltd.,336,16/10/2020
+BERG,Crown Paints Kenya Limited,42.45,16/10/2020
+BKG,Bank of Kigali Group Limited,13.05,16/10/2020
+BOC,BOC Kenya Limited,56.5,16/10/2020
+BRIT,Britam Holdings Limited,7.5,16/10/2020
+C&G,Car and General (Kenya) Limited,24,16/10/2020
+CABL,East African Cables Limited,1.5,16/10/2020
+CARB,Carbacid Investments Limited,8.8,16/10/2020
+CFC,Stanbic Holdings Limited,80,16/10/2020
+CFCI,Liberty Kenya Holdings Limited,7.6,16/10/2020
+CIC,CIC Insurance Group Limited,2.3,16/10/2020
+COOP,Co-operative Bank of Kenya Limited,11.9,16/10/2020
+DCON,Deacons (East Africa) Plc,0.45,16/10/2020
+DTK,Diamond Trust Bank Kenya Limited,62.75,16/10/2020
+EABL,East African Breweries Limited,163,16/10/2020
+EGAD,Eaagads Limited,13.25,16/10/2020
+EQTY,Equity Group Holdings Limited,34.9,16/10/2020
+EVRD,Eveready East Africa Limited,0.97,16/10/2020
+FAHR,STANLIB Fahari Income REIT,5.36,16/10/2020
+FIRE,Sameer Africa Limited,3.5,16/10/2020
+FTGH,Flame Tree Group Holdings Limited,1.43,16/10/2020
+GLD,NewGold Exchange Traded Fund,"1,965.00",16/10/2020
+HAFR,Home Afrika Limited,0.44,16/10/2020
+HFCK,Housing Finance Company Limited,3.91,16/10/2020
+I&M,I&M Holdings Plc,43.65,16/10/2020
+ICDC,Centum Investment Company Limited,18.5,16/10/2020
+JUB,Jubilee Holdings Limited,275,16/10/2020
+KAPC,Kapchorua Tea Company Limited,80.5,16/10/2020
+KCB,KCB Bank Kenya Limited,37.5,16/10/2020
+KEGN,Kenya Electricity Generating Co. Ltd.,5,16/10/2020
+KNRE,Kenya Re-Insurance Corporation Ltd,2.27,16/10/2020
+KPLC,Kenya Power & Lighting Co. Limited,1.75,16/10/2020
+KPLC-P4,Kenya Power Pref. Shares at 4%,5,16/10/2020
+KPLC-P7,Kenya Power Pref. Shares at 7%,6,16/10/2020
+KQ,Kenya Airways Limited,3.83,16/10/2020
+KUKZ,Kakuzi Limited,380,16/10/2020
+KURV,Kurwitu Ventures Limited,"1,500.00",16/10/2020
+LIMT,Limuru Tea Company Limited,400,16/10/2020
+LKL,Longhorn Publishers Limited,4.65,16/10/2020
+MSC,Mumias Sugar Company Limited,0.28,16/10/2020
+NBK,National Bank of Kenya Limited,4.12,16/10/2020
+NBV,Nairobi Business Ventures Ltd,0.71,16/10/2020
+NIC,NIC Bank Limited,23.25,16/10/2020
+NMG,Nation Media Group,15.75,16/10/2020
+NSE,Nairobi Securities Exchange Limited,8.42,16/10/2020
+OCH,Olympia Capital Holdings Limited,2.3,16/10/2020
+ORCH,Kenya Orchards Limited,11.05,16/10/2020
+PAFR,Sanlam Kenya Plc,12.7,16/10/2020
+PORT,East African Portland Cement Co. Ltd,16,16/10/2020
+SASN,Sasini Tea and Coffee Limited,19,16/10/2020
+SCAN,ScanGroup Limited,6.96,16/10/2020
+SCBK,Standard Chartered Bank Limited,160,16/10/2020
+SCOM,Safaricom Limited,30.05,16/10/2020
+SGL,Standard Group Limited,18.65,16/10/2020
+TCL,Trans Century Limited,1.58,16/10/2020
+TOTL,Total Kenya Limited,24.5,16/10/2020
+TPSE,TPS Eastern Africa (Serena) Limited,14.65,16/10/2020
+UCHM,Uchumi Supermarket Limited,0.3,16/10/2020
+UMME,Umeme Limited,6.9,16/10/2020
+UNGA,Unga Group Limited,30.65,16/10/2020
+WTK,Williamson Tea Kenya Limited,140,16/10/2020
+XPRS,Express Kenya Limited,4.5,16/10/2020
+ABSA,Absa Bank Kenya Plc,9.62,17/10/2020
+ARM,ARM Cement Limited,5.55,17/10/2020
+BAMB,Bamburi Cement Limited,23.3,17/10/2020
+BAT,British American Tobacco (Kenya) Ltd.,349,17/10/2020
+BERG,Crown Paints Kenya Limited,42.45,17/10/2020
+BKG,Bank of Kigali Group Limited,13.75,17/10/2020
+BOC,BOC Kenya Limited,57,17/10/2020
+BRIT,Britam Holdings Limited,7.5,17/10/2020
+C&G,Car and General (Kenya) Limited,24,17/10/2020
+CABL,East African Cables Limited,1.47,17/10/2020
+CARB,Carbacid Investments Limited,8.78,17/10/2020
+CFC,Stanbic Holdings Limited,77,17/10/2020
+CFCI,Liberty Kenya Holdings Limited,8,17/10/2020
+CIC,CIC Insurance Group Limited,2.24,17/10/2020
+COOP,Co-operative Bank of Kenya Limited,11.8,17/10/2020
+DCON,Deacons (East Africa) Plc,0.45,17/10/2020
+DTK,Diamond Trust Bank Kenya Limited,63,17/10/2020
+EABL,East African Breweries Limited,163,17/10/2020
+EGAD,Eaagads Limited,13.25,17/10/2020
+EQTY,Equity Group Holdings Limited,34.95,17/10/2020
+EVRD,Eveready East Africa Limited,0.97,17/10/2020
+FAHR,STANLIB Fahari Income REIT,5.36,17/10/2020
+FIRE,Sameer Africa Limited,3.5,17/10/2020
+FTGH,Flame Tree Group Holdings Limited,1.3,17/10/2020
+GLD,NewGold Exchange Traded Fund,"1,970.00",17/10/2020
+HAFR,Home Afrika Limited,0.4,17/10/2020
+HFCK,Housing Finance Company Limited,3.63,17/10/2020
+I&M,I&M Holdings Plc,43.5,17/10/2020
+ICDC,Centum Investment Company Limited,18.3,17/10/2020
+JUB,Jubilee Holdings Limited,275,17/10/2020
+KAPC,Kapchorua Tea Company Limited,75,17/10/2020
+KCB,KCB Bank Kenya Limited,37.2,17/10/2020
+KEGN,Kenya Electricity Generating Co. Ltd.,5.22,17/10/2020
+KNRE,Kenya Re-Insurance Corporation Ltd,2.24,17/10/2020
+KPLC,Kenya Power & Lighting Co. Limited,1.75,17/10/2020
+KPLC-P4,Kenya Power Pref. Shares at 4%,5,17/10/2020
+KPLC-P7,Kenya Power Pref. Shares at 7%,6,17/10/2020
+KQ,Kenya Airways Limited,3.83,17/10/2020
+KUKZ,Kakuzi Limited,380,17/10/2020
+KURV,Kurwitu Ventures Limited,"1,500.00",17/10/2020
+LIMT,Limuru Tea Company Limited,400,17/10/2020
+LKL,Longhorn Publishers Limited,4.54,17/10/2020
+MSC,Mumias Sugar Company Limited,0.28,17/10/2020
+NBK,National Bank of Kenya Limited,4.12,17/10/2020
+NBV,Nairobi Business Ventures Ltd,0.71,17/10/2020
+NIC,NIC Bank Limited,22.95,17/10/2020
+NMG,Nation Media Group,15.95,17/10/2020
+NSE,Nairobi Securities Exchange Limited,8.28,17/10/2020
+OCH,Olympia Capital Holdings Limited,2.14,17/10/2020
+ORCH,Kenya Orchards Limited,11.05,17/10/2020
+PAFR,Sanlam Kenya Plc,12.7,17/10/2020
+PORT,East African Portland Cement Co. Ltd,16,17/10/2020
+SASN,Sasini Tea and Coffee Limited,19,17/10/2020
+SCAN,ScanGroup Limited,6.88,17/10/2020
+SCBK,Standard Chartered Bank Limited,157.75,17/10/2020
+SCOM,Safaricom Limited,30.1,17/10/2020
+SGL,Standard Group Limited,18.1,17/10/2020
+TCL,Trans Century Limited,1.53,17/10/2020
+TOTL,Total Kenya Limited,23.75,17/10/2020
+TPSE,TPS Eastern Africa (Serena) Limited,15,17/10/2020
+UCHM,Uchumi Supermarket Limited,0.28,17/10/2020
+UMME,Umeme Limited,6.48,17/10/2020
+UNGA,Unga Group Limited,30.65,17/10/2020
+WTK,Williamson Tea Kenya Limited,140,17/10/2020
+XPRS,Express Kenya Limited,4.5,17/10/2020
+ABSA,Absa Bank Kenya Plc,9.62,18/10/2020
+ARM,ARM Cement Limited,5.55,18/10/2020
+BAMB,Bamburi Cement Limited,23.3,18/10/2020
+BAT,British American Tobacco (Kenya) Ltd.,349,18/10/2020
+BERG,Crown Paints Kenya Limited,42.45,18/10/2020
+BKG,Bank of Kigali Group Limited,13.75,18/10/2020
+BOC,BOC Kenya Limited,57,18/10/2020
+BRIT,Britam Holdings Limited,7.5,18/10/2020
+C&G,Car and General (Kenya) Limited,24,18/10/2020
+CABL,East African Cables Limited,1.47,18/10/2020
+CARB,Carbacid Investments Limited,8.78,18/10/2020
+CFC,Stanbic Holdings Limited,77,18/10/2020
+CFCI,Liberty Kenya Holdings Limited,8,18/10/2020
+CIC,CIC Insurance Group Limited,2.24,18/10/2020
+COOP,Co-operative Bank of Kenya Limited,11.8,18/10/2020
+DCON,Deacons (East Africa) Plc,0.45,18/10/2020
+DTK,Diamond Trust Bank Kenya Limited,63,18/10/2020
+EABL,East African Breweries Limited,163,18/10/2020
+EGAD,Eaagads Limited,13.25,18/10/2020
+EQTY,Equity Group Holdings Limited,34.95,18/10/2020
+EVRD,Eveready East Africa Limited,0.97,18/10/2020
+FAHR,STANLIB Fahari Income REIT,5.36,18/10/2020
+FIRE,Sameer Africa Limited,3.5,18/10/2020
+FTGH,Flame Tree Group Holdings Limited,1.3,18/10/2020
+GLD,NewGold Exchange Traded Fund,"1,970.00",18/10/2020
+HAFR,Home Afrika Limited,0.4,18/10/2020
+HFCK,Housing Finance Company Limited,3.63,18/10/2020
+I&M,I&M Holdings Plc,43.5,18/10/2020
+ICDC,Centum Investment Company Limited,18.3,18/10/2020
+JUB,Jubilee Holdings Limited,275,18/10/2020
+KAPC,Kapchorua Tea Company Limited,75,18/10/2020
+KCB,KCB Bank Kenya Limited,37.2,18/10/2020
+KEGN,Kenya Electricity Generating Co. Ltd.,5.22,18/10/2020
+KNRE,Kenya Re-Insurance Corporation Ltd,2.24,18/10/2020
+KPLC,Kenya Power & Lighting Co. Limited,1.75,18/10/2020
+KPLC-P4,Kenya Power Pref. Shares at 4%,5,18/10/2020
+KPLC-P7,Kenya Power Pref. Shares at 7%,6,18/10/2020
+KQ,Kenya Airways Limited,3.83,18/10/2020
+KUKZ,Kakuzi Limited,380,18/10/2020
+KURV,Kurwitu Ventures Limited,"1,500.00",18/10/2020
+LIMT,Limuru Tea Company Limited,400,18/10/2020
+LKL,Longhorn Publishers Limited,4.54,18/10/2020
+MSC,Mumias Sugar Company Limited,0.28,18/10/2020
+NBK,National Bank of Kenya Limited,4.12,18/10/2020
+NBV,Nairobi Business Ventures Ltd,0.71,18/10/2020
+NIC,NIC Bank Limited,22.95,18/10/2020
+NMG,Nation Media Group,15.95,18/10/2020
+NSE,Nairobi Securities Exchange Limited,8.28,18/10/2020
+OCH,Olympia Capital Holdings Limited,2.14,18/10/2020
+ORCH,Kenya Orchards Limited,11.05,18/10/2020
+PAFR,Sanlam Kenya Plc,12.7,18/10/2020
+PORT,East African Portland Cement Co. Ltd,16,18/10/2020
+SASN,Sasini Tea and Coffee Limited,19,18/10/2020
+SCAN,ScanGroup Limited,6.88,18/10/2020
+SCBK,Standard Chartered Bank Limited,157.75,18/10/2020
+SCOM,Safaricom Limited,30.1,18/10/2020
+SGL,Standard Group Limited,18.1,18/10/2020
+TCL,Trans Century Limited,1.53,18/10/2020
+TOTL,Total Kenya Limited,23.75,18/10/2020
+TPSE,TPS Eastern Africa (Serena) Limited,15,18/10/2020
+UCHM,Uchumi Supermarket Limited,0.28,18/10/2020
+UMME,Umeme Limited,6.48,18/10/2020
+UNGA,Unga Group Limited,30.65,18/10/2020
+WTK,Williamson Tea Kenya Limited,140,18/10/2020
+XPRS,Express Kenya Limited,4.5,18/10/2020
+ABSA,Absa Bank Kenya Plc,9.5,19/10/2020 00:00
+ARM,ARM Cement Limited,5.55,19/10/2020 00:00
+BAMB,Bamburi Cement Limited,23.25,19/10/2020 00:00
+BAT,British American Tobacco (Kenya) Ltd.,350,19/10/2020 00:00
+BERG,Crown Paints Kenya Limited,42.5,19/10/2020 00:00
+BKG,Bank of Kigali Group Limited,14,19/10/2020 00:00
+BOC,BOC Kenya Limited,57,19/10/2020 00:00
+BRIT,Britam Holdings Limited,7.5,19/10/2020 00:00
+C&G,Car and General (Kenya) Limited,24,19/10/2020 00:00
+CABL,East African Cables Limited,1.47,19/10/2020 00:00
+CARB,Carbacid Investments Limited,8.4,19/10/2020 00:00
+CFC,Stanbic Holdings Limited,84,19/10/2020 00:00
+CFCI,Liberty Kenya Holdings Limited,7.84,19/10/2020 00:00
+CIC,CIC Insurance Group Limited,2.24,19/10/2020 00:00
+COOP,Co-operative Bank of Kenya Limited,11.85,19/10/2020 00:00
+DCON,Deacons (East Africa) Plc,0.45,19/10/2020 00:00
+DTK,Diamond Trust Bank Kenya Limited,62.5,19/10/2020 00:00
+EABL,East African Breweries Limited,162,19/10/2020 00:00
+EGAD,Eaagads Limited,13.25,19/10/2020 00:00
+EQTY,Equity Group Holdings Limited,34.55,19/10/2020 00:00
+EVRD,Eveready East Africa Limited,0.97,19/10/2020 00:00
+FAHR,STANLIB Fahari Income REIT,5.38,19/10/2020 00:00
+FIRE,Sameer Africa Limited,3.41,19/10/2020 00:00
+FTGH,Flame Tree Group Holdings Limited,1.32,19/10/2020 00:00
+GLD,NewGold Exchange Traded Fund,"1,970.00",19/10/2020 00:00
+HAFR,Home Afrika Limited,0.39,19/10/2020 00:00
+HFCK,Housing Finance Company Limited,3.86,19/10/2020 00:00
+I&M,I&M Holdings Plc,43.65,19/10/2020 00:00
+ICDC,Centum Investment Company Limited,18.5,19/10/2020 00:00
+JUB,Jubilee Holdings Limited,270,19/10/2020 00:00
+KAPC,Kapchorua Tea Company Limited,75,19/10/2020 00:00
+KCB,KCB Bank Kenya Limited,37,19/10/2020 00:00
+KEGN,Kenya Electricity Generating Co. Ltd.,5.24,19/10/2020 00:00
+KNRE,Kenya Re-Insurance Corporation Ltd,2.26,19/10/2020 00:00
+KPLC,Kenya Power & Lighting Co. Limited,1.73,19/10/2020 00:00
+KPLC-P4,Kenya Power Pref. Shares at 4%,5,19/10/2020 00:00
+KPLC-P7,Kenya Power Pref. Shares at 7%,6,19/10/2020 00:00
+KQ,Kenya Airways Limited,3.83,19/10/2020 00:00
+KUKZ,Kakuzi Limited,380,19/10/2020 00:00
+KURV,Kurwitu Ventures Limited,"1,500.00",19/10/2020 00:00
+LIMT,Limuru Tea Company Limited,400,19/10/2020 00:00
+LKL,Longhorn Publishers Limited,4.7,19/10/2020 00:00
+MSC,Mumias Sugar Company Limited,0.28,19/10/2020 00:00
+NBK,National Bank of Kenya Limited,4.12,19/10/2020 00:00
+NBV,Nairobi Business Ventures Ltd,0.71,19/10/2020 00:00
+NIC,NIC Bank Limited,22.85,19/10/2020 00:00
+NMG,Nation Media Group,15.6,19/10/2020 00:00
+NSE,Nairobi Securities Exchange Limited,8.1,19/10/2020 00:00
+OCH,Olympia Capital Holdings Limited,2.04,19/10/2020 00:00
+ORCH,Kenya Orchards Limited,11.05,19/10/2020 00:00
+PAFR,Sanlam Kenya Plc,12.5,19/10/2020 00:00
+PORT,East African Portland Cement Co. Ltd,16,19/10/2020 00:00
+SASN,Sasini Tea and Coffee Limited,19,19/10/2020 00:00
+SCAN,ScanGroup Limited,6.82,19/10/2020 00:00
+SCBK,Standard Chartered Bank Limited,159.5,19/10/2020 00:00
+SCOM,Safaricom Limited,30.1,19/10/2020 00:00
+SGL,Standard Group Limited,18.1,19/10/2020 00:00
+TCL,Trans Century Limited,1.58,19/10/2020 00:00
+TOTL,Total Kenya Limited,22.8,19/10/2020 00:00
+TPSE,TPS Eastern Africa (Serena) Limited,16,19/10/2020 00:00
+UCHM,Uchumi Supermarket Limited,0.3,19/10/2020 00:00
+UMME,Umeme Limited,7,19/10/2020 00:00
+UNGA,Unga Group Limited,30.65,19/10/2020 00:00
+WTK,Williamson Tea Kenya Limited,139,19/10/2020 00:00
+XPRS,Express Kenya Limited,4.5,19/10/2020 00:00
+ABSA,Absa Bank Kenya Plc,9.5,20/10/2020 00:00
+ARM,ARM Cement Limited,5.55,20/10/2020 00:00
+BAMB,Bamburi Cement Limited,23.25,20/10/2020 00:00
+BAT,British American Tobacco (Kenya) Ltd.,350,20/10/2020 00:00
+BERG,Crown Paints Kenya Limited,42.5,20/10/2020 00:00
+BKG,Bank of Kigali Group Limited,14,20/10/2020 00:00
+BOC,BOC Kenya Limited,57,20/10/2020 00:00
+BRIT,Britam Holdings Limited,7.5,20/10/2020 00:00
+C&G,Car and General (Kenya) Limited,24,20/10/2020 00:00
+CABL,East African Cables Limited,1.47,20/10/2020 00:00
+CARB,Carbacid Investments Limited,8.4,20/10/2020 00:00
+CFC,Stanbic Holdings Limited,84,20/10/2020 00:00
+CFCI,Liberty Kenya Holdings Limited,7.84,20/10/2020 00:00
+CIC,CIC Insurance Group Limited,2.24,20/10/2020 00:00
+COOP,Co-operative Bank of Kenya Limited,11.85,20/10/2020 00:00
+DCON,Deacons (East Africa) Plc,0.45,20/10/2020 00:00
+DTK,Diamond Trust Bank Kenya Limited,62.5,20/10/2020 00:00
+EABL,East African Breweries Limited,162,20/10/2020 00:00
+EGAD,Eaagads Limited,13.25,20/10/2020 00:00
+EQTY,Equity Group Holdings Limited,34.55,20/10/2020 00:00
+EVRD,Eveready East Africa Limited,0.97,20/10/2020 00:00
+FAHR,STANLIB Fahari Income REIT,5.38,20/10/2020 00:00
+FIRE,Sameer Africa Limited,3.41,20/10/2020 00:00
+FTGH,Flame Tree Group Holdings Limited,1.32,20/10/2020 00:00
+GLD,NewGold Exchange Traded Fund,"1,970.00",20/10/2020 00:00
+HAFR,Home Afrika Limited,0.39,20/10/2020 00:00
+HFCK,Housing Finance Company Limited,3.86,20/10/2020 00:00
+I&M,I&M Holdings Plc,43.65,20/10/2020 00:00
+ICDC,Centum Investment Company Limited,18.5,20/10/2020 00:00
+JUB,Jubilee Holdings Limited,270,20/10/2020 00:00
+KAPC,Kapchorua Tea Company Limited,75,20/10/2020 00:00
+KCB,KCB Bank Kenya Limited,37,20/10/2020 00:00
+KEGN,Kenya Electricity Generating Co. Ltd.,5.24,20/10/2020 00:00
+KNRE,Kenya Re-Insurance Corporation Ltd,2.26,20/10/2020 00:00
+KPLC,Kenya Power & Lighting Co. Limited,1.73,20/10/2020 00:00
+KPLC-P4,Kenya Power Pref. Shares at 4%,5,20/10/2020 00:00
+KPLC-P7,Kenya Power Pref. Shares at 7%,6,20/10/2020 00:00
+KQ,Kenya Airways Limited,3.83,20/10/2020 00:00
+KUKZ,Kakuzi Limited,380,20/10/2020 00:00
+KURV,Kurwitu Ventures Limited,"1,500.00",20/10/2020 00:00
+LIMT,Limuru Tea Company Limited,400,20/10/2020 00:00
+LKL,Longhorn Publishers Limited,4.7,20/10/2020 00:00
+MSC,Mumias Sugar Company Limited,0.28,20/10/2020 00:00
+NBK,National Bank of Kenya Limited,4.12,20/10/2020 00:00
+NBV,Nairobi Business Ventures Ltd,0.71,20/10/2020 00:00
+NIC,NIC Bank Limited,22.85,20/10/2020 00:00
+NMG,Nation Media Group,15.6,20/10/2020 00:00
+NSE,Nairobi Securities Exchange Limited,8.1,20/10/2020 00:00
+OCH,Olympia Capital Holdings Limited,2.04,20/10/2020 00:00
+ORCH,Kenya Orchards Limited,11.05,20/10/2020 00:00
+PAFR,Sanlam Kenya Plc,12.5,20/10/2020 00:00
+PORT,East African Portland Cement Co. Ltd,16,20/10/2020 00:00
+SASN,Sasini Tea and Coffee Limited,19,20/10/2020 00:00
+SCAN,ScanGroup Limited,6.82,20/10/2020 00:00
+SCBK,Standard Chartered Bank Limited,159.5,20/10/2020 00:00
+SCOM,Safaricom Limited,30.1,20/10/2020 00:00
+SGL,Standard Group Limited,18.1,20/10/2020 00:00
+TCL,Trans Century Limited,1.58,20/10/2020 00:00
+TOTL,Total Kenya Limited,22.8,20/10/2020 00:00
+TPSE,TPS Eastern Africa (Serena) Limited,16,20/10/2020 00:00
+UCHM,Uchumi Supermarket Limited,0.3,20/10/2020 00:00
+UMME,Umeme Limited,7,20/10/2020 00:00
+UNGA,Unga Group Limited,30.65,20/10/2020 00:00
+WTK,Williamson Tea Kenya Limited,139,20/10/2020 00:00
+XPRS,Express Kenya Limited,4.5,20/10/2020 00:00

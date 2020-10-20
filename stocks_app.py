@@ -10,7 +10,7 @@ app = dash.Dash('__name__')
 server = app.server
 
 
-def generate_table(dataframe, max_rows=5):
+def generate_table(dataframe, max_rows=3):
     return html.Table([
         html.Thead(
             html.Tr([html.Th(col) for col in dataframe.columns])
