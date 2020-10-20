@@ -78,11 +78,11 @@ def update_figure(plots):
                                  spikethickness=1, spikedash='solid', spikemode='across',
                                  spikecolor='black'),
                       yaxis=dict(title='Price', color='green', showgrid=True, gridwidth=0.1,
-                                 gridcolor='#BFCA90'),
+                                 gridcolor='#7AE2E6'),
                       hovermode='x',
                       autosize=True,
-                      paper_bgcolor='#98A26A',
-                      plot_bgcolor='#98A26A',
+                      paper_bgcolor='#C2DBDC',
+                      plot_bgcolor='#C2DBDC',
                       template='plotly_dark',
                       )
 
