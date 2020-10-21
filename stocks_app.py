@@ -75,8 +75,8 @@ def update_figure(plots):
     fig = go.Figure(data=trace1)
     fig.update_layout(title=dict(text=plots, font_color='black', font_size=30, x=0.5),
                       xaxis=dict(title='Date', color='purple', showgrid=False, showspikes=True,
-                                 spikethickness=1, spikedash='solid', spikemode='across',
-                                 spikecolor='black'),
+                                 spikethickness=1, spikedash='solid', spikemode='toaxis+across+marker',
+                                 spikecolor='black', spikesnap='cursor'),
                       yaxis=dict(title='Price', color='green', showgrid=True, gridwidth=0.1,
                                  gridcolor='#7AE2E6'),
                       hovermode='x',

@@ -46,7 +46,6 @@ for ticker in tickers:
 
 # Create today's dates
 date = datetime.date.today()
-date = pd.to_datetime(date)
 
 
 # Now create the csv file that data will be loaded to
@@ -68,7 +67,7 @@ def write_csv():
             csv_writer.writerow(info)
 
 
-schedule.every().day.at('20:49').do(write_csv)
+schedule.every().day.at('23:53').do(write_csv)
 while True:
     schedule.run_pending()
     time.sleep(1)
