@@ -97,12 +97,10 @@ def update_figure(plots):
 def update_table(table):
     data1 = data
     dat = data1[data1['company'] == table]
-    data2 = dat.loc[:,['ticker','price', 'date']]
+    data2 = dat.loc[:, ['ticker', 'price', 'date']]
     table_data = generate_table(data2.iloc[-2:], 3)
     return table_data
 
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=700)
-
-
