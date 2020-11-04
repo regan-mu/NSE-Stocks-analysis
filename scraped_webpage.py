@@ -68,7 +68,7 @@ def csv_file():
 
                 csv_writer.writerow(info)
 
-    schedule.every().day.at('20:24').do(write_csv)
+    schedule.every().day.at('16:19').do(write_csv)
     while True:
         schedule.run_pending()
         time.sleep(1)
