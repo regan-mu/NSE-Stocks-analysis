@@ -67,8 +67,8 @@ def update_figure(plots):
         x=dates,
         y=dat['price'],
         mode='lines+markers',
-        line=dict(color='#483D8B', dash='dot'),
-        marker=dict(color='#A10197'),
+        line=dict(color='#483D8B', width=0.5),
+        marker=dict(color='#A10197', size=4),
         text=dat.company
     )
 
