@@ -120,6 +120,7 @@ def rnn(company):
     df = pd.read_csv('pg4_data.csv', parse_dates=True, index_col='date')
     df = df[df.company == company]
     df.drop(['ticker', 'company'], inplace=True, axis=1)
+    df['price'] = df.price.apply(lambda x: x.replace(',', ''))
     df['price'] = pd.to_numeric(df.price, errors='coerce')
     train_data = df[:-7]
     test_data = df[-7:]
