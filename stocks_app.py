@@ -2,8 +2,15 @@ import dash_html_components as html
 import dash_core_components as dcc
 from dash.dependencies import Input, Output
 import plotly.graph_objects as go
+import dash_daq as daq
 import pandas as pd
 import dash
+import numpy as np
+from sklearn.preprocessing import MinMaxScaler
+from tensorflow.keras.preprocessing.sequence import TimeseriesGenerator
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, SimpleRNN
+from tensorflow.keras.callbacks import EarlyStopping
 
 
 app = dash.Dash('__name__')
@@ -41,7 +48,10 @@ app.layout = html.Div(children=[
                                  searchable=True,
                                  value=label[0]
                         ),
-                    html.Div(id='stocks_table', className='row table-orders')
+                    html.Div(id='stocks_table', className='row table-orders'),
+                    html.P('Prediction for next day'),
+                    daq.LEDDisplay(id='my-daq-leddisplay', value=0,
+                                   color='#239B56', backgroundColor="#D6DBDF", size=30)
                     ]
                 ),
                 html.Div(className='eight columns div-for-charts bg-grey', children=[
@@ -101,6 +111,40 @@ def update_table(table):
     table_data = generate_table(data2.iloc[-2:], 3)
     return table_data
 
+@app.callback(
+    Output(component_id='my-daq-leddisplay', component_property='value'),
+    Input(component_id='my_dropdown', component_property='value')
+)
+# Model
+def rnn(company):
+    df = pd.read_csv('pg4_data.csv', parse_dates=True, index_col='date')
+    df = df[df.company == company]
+    df.drop(['ticker', 'company'], inplace=True, axis=1)
+    df['price'] = pd.to_numeric(df.price, errors='coerce')
+    train_data = df[:-7]
+    test_data = df[-7:]
+    scaler = MinMaxScaler(feature_range=(0, 1))
+    train_scaled = scaler.fit_transform(train_data)
+    test_scaled = scaler.transform(test_data)
+    generator = TimeseriesGenerator(train_scaled, train_scaled, length=3, batch_size=1)
+    model = Sequential()
+    model.add(SimpleRNN(132, input_shape=(3, 1)))
+    model.add(Dense(64))
+    model.add(Dense(1))
+    early_stops = EarlyStopping(monitor='val_loss', patience=2)
+    validation = TimeseriesGenerator(test_scaled, test_scaled, length=3, batch_size=1)
+    model.compile(optimizer='adam', loss='mse')
+    model.fit(generator, epochs=20, validation_data=validation, callbacks=[early_stops])
+
+    test_prediction = []
+    first_eval_batch = test_scaled[-3:]
+    current_batch = first_eval_batch.reshape(1, 3, 1)
+
+    current_pred = model.predict(current_batch)[0]
+    test_prediction.append(current_pred)
+    current_batch = np.append(current_batch[:, 1:, :], [[current_pred]], axis=1)
+    true_predictions = scaler.inverse_transform(test_prediction)
+    return round(true_predictions[0][0], 2)
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=700)
